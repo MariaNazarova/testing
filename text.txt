@@ -1,1 +1,2 @@
-master -> master in student
+master -> master in studentmaster->feature in student
+new line
